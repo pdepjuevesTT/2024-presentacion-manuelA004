@@ -24,3 +24,5 @@ me llamo Manuel Acero, acero como el metal o como Acero Cali el ex boxeador
 - tengo 19 años
 - tengo una hermosa gata negra
 
+## *este soy yo*
+![foto mia](https://github.com/manuelA004/presentaci-n-/assets/164408972/8efea848-4ecd-45c3-bfc9-d0493fd86f15)
